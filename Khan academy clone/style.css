@@ -1,0 +1,314 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+}
+.courses {
+  display: flex;
+  width: 79.188;
+  height: 20px;
+  margin-top: 18px;
+  margin-left: 40px;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+}
+.search-box {
+  display: flex;
+  align-items: center;
+  border: 1px solid rgb(247, 248, 250);
+  border-radius: 5px;
+  overflow: hidden;
+}
+.search-box input[type="txt"] {
+  border: none;
+  padding: 10px;
+  outline: none;
+  flex: 1;
+}
+.search-icon {
+  background-color: rgb(247, 248, 250);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+
+.logo {
+  margin-top: 25px;
+}
+.donate {
+  display: flex;
+  margin-top: 25px;
+}
+.donate-text {
+  color: #1865f2 !important;
+  font-weight: bolder;
+  font-size: 20px;
+}
+.account {
+  margin-top: 25px;
+}
+.pannel {
+  display: flex;
+  justify-content: space-evenly;
+  height: 125px;
+  background-color: rgb(250, 249, 241);
+  width: 100%;
+}
+.avatar {
+  padding-top: 15px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 15px;
+}
+.avatar-userinfo {
+  background-color: #135de7;
+}
+.edit-profile {
+  width: 115px;
+  height: 48px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 15px;
+}
+.edit-profile-button {
+  border-radius: 5px solid black;
+  margin-top: 24px;
+  border: 0.8px;
+  font-weight: bold;
+  font-size: 16px;
+  color: #1865f2 !important;
+}
+.edit-profile-button:hover {
+  background-color: white;
+}
+.avatar {
+  display: flex;
+}
+.avatar p {
+  text-decoration: underline;
+  font-size: 16px;
+}
+.avatar h1 {
+  font-size: 28px;
+  line-height: 32px;
+}
+#text-user {
+  margin-top: 0;
+}
+
+ul {
+  list-style-type: none;
+}
+.bottom-nav {
+  width: 211.688;
+  height: 3555.6;
+  clear: both;
+  display: block;
+  margin-top: 30px;
+}
+.nav-content {
+  font-size: 16px;
+  font-family: Lato, "Noto sans";
+  font-weight: 700 !important;
+  line-height: 20px !important;
+}
+.nav-content-heading {
+  color: rgba(33, 36, 44, 0.64);
+  font-size: 12px;
+}
+li {
+  margin-top: 20px;
+}
+.bottom-nav-2 {
+  margin-top: 30px;
+  margin-left: 15px;
+}
+.nav-content:hover {
+  color: rgb(87, 83, 83);
+}
+.body {
+  display: flex;
+}
+.courses-2 {
+  padding-top: 24px;
+  padding-left: 25px;
+  width: 100%;
+  height: 700px;
+  margin-left: 50px;
+}
+.My-course-txt {
+  font-size: 24px !important;
+  line-height: 28px;
+}
+.my-courses {
+  display: flex;
+  justify-content: space-between;
+}
+.btn {
+  color: #1865f2 !important;
+  border-radius: 5px solid black;
+  margin-top: 24px;
+  border: 0.8px;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.btn:hover {
+  color: #ffffff !important;
+  border-radius: 5px solid black;
+  margin-top: 24px;
+  border: 0.8px;
+  font-weight: bold;
+  font-size: 15px;
+}
+.button-edit-course {
+  width: 115px;
+  height: 48px;
+  margin-right: 50px;
+}
+.image {
+  border-radius: 50%;
+  overflow: hidden;
+  width: 35px;
+  height: 30px;
+}
+.image img {
+  display: block;
+
+  min-width: 100%;
+  min-height: 100%;
+}
+.first {
+  display: flex;
+  margin-left: 25px;
+}
+.mastered {
+  margin-left: 75px;
+}
+.text-sat-math1 {
+  margin-top: 5px;
+  margin-left: 10px;
+}
+.sat-math-text {
+  display: flex;
+  width: 397.237px;
+  height: 29.6px;
+  padding-bottom: 14px;
+  margin-bottom: 20px;
+  justify-content: space-between;
+}
+.see-all-text {
+  margin-left: 15px;
+  color: blue;
+}
+.top-first {
+  margin-bottom: 20px;
+}
+.add-course-div {
+  width: 460px;
+  height: 366px;
+}
+.coures-box-2 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.add-course-div {
+  width: 460px;
+  height: 366px;
+  background-color: #f7f8fa;
+  border-radius: 2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.add-course-div-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.add-course-div-txt {
+  color: black;
+  width: 100%;
+  text-align: center;
+  margin-top: 20px;
+  border-radius: 2px;
+  padding: 10px 0;
+}
+.boundries-img {
+  height: 50px;
+  width: 100px;
+}
+.boundries-image {
+  height: 50px;
+  width: 100px;
+}
+
+.footer {
+  height: fit-content;
+  background-color: #0b2149 !important;
+  padding: 36px 0 20px;
+}
+.description-first {
+  width: 410px;
+  height: 60px;
+  padding-top: 30px;
+  margin-bottom: 20px;
+}
+.description-second {
+  width: 410px;
+  height: 60px;
+}
+.para {
+  color: #8295ba !important;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: inherit;
+}
+.desrpition {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.contact-footer {
+  display: grid;
+}
+.courses-footer {
+  display: grid;
+}
+.about-footer {
+  display: grid;
+}
+a {
+  text-decoration: none;
+  color: #ffffff !important;
+  font-size: 15px;
+  line-height: 30px;
+}
+a:hover {
+  text-decoration: none;
+  color: #ffffff !important;
+  font-size: 15px;
+  line-height: 30px;
+  text-decoration: underline;
+}
+.download-app-text {
+  color: #ffffff !important;
+}
+.first-down-img {
+  margin-bottom: 5px;
+}
+.donate-f-btn {
+  color: #ffffff;
+}
+.donate-f-btn:hover {
+  text-decoration: underline;
+}
+.btn-hvr:hover {
+  text-decoration: underline;
+}
